@@ -1,4 +1,4 @@
-# Off Track
+# floreva
 
 Off Track is a modern fashion e-commerce store built with TanStack Start, React, Tailwind CSS and Lovable Cloud.
 
